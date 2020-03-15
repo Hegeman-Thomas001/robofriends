@@ -1,0 +1,16 @@
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: rgba(207, 176, 0, 0.822);
+    opacity: 1; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: rgba(207, 176, 0, 0.822);
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+    color: rgba(207, 176, 0, 0.822);
+  }
+
+  .text-gold {
+      color: rgba(240, 204, 0, 0.85);
+  }
