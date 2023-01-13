@@ -10,6 +10,6 @@ AND
 
 Using: https://robohash.org
 
-- https://robohash.org/somefunhashing.png?200x200
+- https://robohash.org/somefunhashing.png?100x100
 - Result if api is working:
-  ![Robofriend:](https://robohash.org/somefunhashing.png?200x200)
+  ![Robofriend:](https://robohash.org/somefunhashing.png?100x100)
