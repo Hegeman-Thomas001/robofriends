@@ -1,3 +1,4 @@
+// component imports
 import Card from "./Card";
 
 const CardList = ({ robots }) => {

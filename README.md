@@ -13,3 +13,8 @@ Using: https://robohash.org
 - https://robohash.org/somefunhashing.png?100x100
 - Result if api is working:
   ![Robofriend:](https://robohash.org/somefunhashing.png?100x100)
+
+Built with:
+
+- React
+- tachyons (styling): https://www.npmjs.com/package/tachyons
