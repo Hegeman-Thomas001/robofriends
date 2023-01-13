@@ -2,7 +2,7 @@ Robofriends: https://hegeman-thomas001.github.io/robofriends/
 
 Search for robotic friends from those given!
 
-Fetched from: https://jsonplaceholder.typicode.com/users
+Fetched from: https://jsonplaceholder.typicode.com
 
 - A fun api with more data to grab and include in your program.
 
